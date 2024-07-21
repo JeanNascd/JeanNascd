@@ -4,3 +4,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeandesouza15&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeandesouza15&hide_progress=true)
+
+Sou Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas.
